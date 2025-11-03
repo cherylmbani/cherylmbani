@@ -21,9 +21,9 @@ I'm a passionate software engineer with a unique background in Geoinformation Sy
 - [TaskFlow App]() - Productivity management system
 
 ## 📫 Let's Connect
-- **LinkedIn:** [Your LinkedIn Profile] <!-- We'll add this later -->
-- **Email:** [mbanicheryl45@gmail.com]
-- **Portfolio:** [Coming Soon] <!-- We'll add this after portfolio -->
+- **LinkedIn:** [https://www.linkedin.com/in/cheryl-mbani-533484334/](https://www.linkedin.com/in/cheryl-mbani-533484334/)
+- **Email:** mbanicheryl45@gmail.com
+- **Portfolio:** Coming Soon <!-- We'll build this next! -->
 
 ⚡ **Fun fact:** I combine my geospatial analysis background with software engineering to create data-driven solutions!
 
