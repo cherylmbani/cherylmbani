@@ -15,10 +15,11 @@ I'm a passionate software engineer with a unique background in Geoinformation Sy
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=cherylmbani&show_icons=true&theme=radical)
 
 ## 🌟 Featured Projects
-<!-- We'll update this with your best projects later -->
-- [Project Atlas]() - Full-stack geospatial data visualization
-- [DataViz Dashboard]() - Environmental data analysis tool  
-- [TaskFlow App]() - Productivity management system
+- [SheCare ECI Project](https://github.com/cassyomondi/SheCare-ECI-Project/tree/frontend-cheryl) - **Frontend Developer** - Collaborative healthcare application project
+- [React-Flask Project](https://github.com/Mathu025/react-flask-project) - **Backend Developer** - Built Flask API and database models for full-stack application
+- [Quiz App](https://github.com/cherylmbani/quiz-app) - Interactive JavaScript quiz with timer & scoring
+- [To-Do List App](https://github.com/cherylmbani/todo-app) - Full-stack task manager with JSON server
+- [Mentorship Manager CLI](https://github.com/cherylmbani/phase-3-project-mentorship-manager) - Python CLI for mentorship tracking
 
 ## 📫 Let's Connect
 - **LinkedIn:** [https://www.linkedin.com/in/cheryl-mbani-533484334/](https://www.linkedin.com/in/cheryl-mbani-533484334/)
